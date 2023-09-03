@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sintony
+- Font Author: Copyright (c) 2013, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name 'Sintony'
+- Font Source: http://fonts.gstatic.com/s/sintony/v15/XoHj2YDqR7-98cVUGYgIn9cDkjLp6C8.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
